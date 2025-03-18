@@ -1,0 +1,262 @@
+[18-Mar-2025 00:40:01 UTC] Received data: {"match_id":10,"team1":{"passes":"4","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"3"},"team2":{"passes":"3","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:40:01 UTC] Processing match ID: 10
+[18-Mar-2025 00:40:01 UTC] Executing match update with params: Array
+(
+    [:score1] => 3
+    [:score2] => 2
+    [:match_id] => 10
+)
+
+[18-Mar-2025 00:40:01 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [type_id] => 2
+    [tournoi_nom] => Coupe du Trône
+)
+
+[18-Mar-2025 00:40:01 UTC] Successfully completed all updates for match 10
+[18-Mar-2025 00:40:56 UTC] Received data: {"match_id":11,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:40:56 UTC] Processing match ID: 11
+[18-Mar-2025 00:40:56 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 11
+)
+
+[18-Mar-2025 00:40:56 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:40:56 UTC] Updating standings for Al Botola Pro match
+[18-Mar-2025 00:40:56 UTC] Error in finish_match.php: SQLSTATE[HY093]: Invalid parameter number
+[18-Mar-2025 00:40:56 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(207): PDOStatement->execute(Array)
+#1 {main}
+[18-Mar-2025 00:42:17 UTC] Received data: {"match_id":12,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:42:17 UTC] Processing match ID: 12
+[18-Mar-2025 00:42:17 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 12
+)
+
+[18-Mar-2025 00:42:17 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 9
+    [equipe_exterieur_id] => 8
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:42:17 UTC] Updating standings for Al Botola Pro match
+[18-Mar-2025 00:42:17 UTC] Error in finish_match.php: SQLSTATE[HY093]: Invalid parameter number
+[18-Mar-2025 00:42:17 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(207): PDOStatement->execute(Array)
+#1 {main}
+[18-Mar-2025 00:42:22 UTC] Received data: {"match_id":12,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:42:22 UTC] Processing match ID: 12
+[18-Mar-2025 00:42:22 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 12
+)
+
+[18-Mar-2025 00:42:22 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 9
+    [equipe_exterieur_id] => 8
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:42:22 UTC] Updating standings for Al Botola Pro match
+[18-Mar-2025 00:42:22 UTC] Error in finish_match.php: SQLSTATE[HY093]: Invalid parameter number
+[18-Mar-2025 00:42:22 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(207): PDOStatement->execute(Array)
+#1 {main}
+[18-Mar-2025 00:42:26 UTC] Received data: {"match_id":12,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:42:26 UTC] Processing match ID: 12
+[18-Mar-2025 00:42:26 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 12
+)
+
+[18-Mar-2025 00:42:27 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 9
+    [equipe_exterieur_id] => 8
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:42:27 UTC] Updating standings for Al Botola Pro match
+[18-Mar-2025 00:42:27 UTC] Error in finish_match.php: SQLSTATE[HY093]: Invalid parameter number
+[18-Mar-2025 00:42:27 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(207): PDOStatement->execute(Array)
+#1 {main}
+[18-Mar-2025 00:43:32 UTC] Received data: {"match_id":13,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:43:32 UTC] Processing match ID: 13
+[18-Mar-2025 00:43:32 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 13
+)
+
+[18-Mar-2025 00:43:32 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:43:32 UTC] Updating standings for Al Botola Pro match
+[18-Mar-2025 00:43:32 UTC] Error in finish_match.php: SQLSTATE[HY093]: Invalid parameter number
+[18-Mar-2025 00:43:32 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(207): PDOStatement->execute(Array)
+#1 {main}
+[18-Mar-2025 00:47:00 UTC] Received data: {"match_id":14,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:47:00 UTC] Processing match ID: 14
+[18-Mar-2025 00:47:00 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 14
+)
+
+[18-Mar-2025 00:47:00 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:47:00 UTC] Updating standings for Al Botola Pro match
+[18-Mar-2025 00:47:00 UTC] Error in finish_match.php: SQLSTATE[HY093]: Invalid parameter number
+[18-Mar-2025 00:47:00 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(207): PDOStatement->execute(Array)
+#1 {main}
+[18-Mar-2025 00:48:43 UTC] Received data: {"match_id":15,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"3"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:48:43 UTC] Processing match ID: 15
+[18-Mar-2025 00:48:43 UTC] Executing match update with params: Array
+(
+    [:score1] => 3
+    [:score2] => 1
+    [:match_id] => 15
+)
+
+[18-Mar-2025 00:48:43 UTC] Found teams: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:48:43 UTC] Successfully completed all updates for match 15
+[18-Mar-2025 00:52:40 UTC] Received data: {"match_id":16,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:52:40 UTC] Processing match ID: 16
+[18-Mar-2025 00:52:40 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 16
+)
+
+[18-Mar-2025 00:52:40 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:52:40 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 00:52:40 UTC] Successfully completed all updates for match 16
+[18-Mar-2025 00:59:35 UTC] Received data: {"match_id":17,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 00:59:35 UTC] Processing match ID: 17
+[18-Mar-2025 00:59:35 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 17
+)
+
+[18-Mar-2025 00:59:35 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 00:59:35 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 00:59:35 UTC] Successfully completed all updates for match 17
+[18-Mar-2025 01:03:31 UTC] Received data: {"match_id":18,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"1","interceptions":"0","passes_decisives":"1","tirs_cadres":"1","fautes":"0"},"3":{"id":"3","dribbles_reussis":"1","interceptions":"1","passes_decisives":"1","tirs_cadres":"1","fautes":"1"},"4":{"id":"4","dribbles_reussis":"3","interceptions":"2","passes_decisives":"2","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"1","interceptions":"1","passes_decisives":"1","tirs_cadres":"0","fautes":"1"}}}
+[18-Mar-2025 01:03:31 UTC] Processing match ID: 18
+[18-Mar-2025 01:03:31 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 18
+)
+
+[18-Mar-2025 01:03:31 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 01:03:31 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 01:03:31 UTC] Successfully completed all updates for match 18
+[18-Mar-2025 01:15:08 UTC] Received data: {"match_id":19,"team1":{"passes":"2","tirs":"1","corners":"3","penalties":"1","coups_franc":"2","centres":"3","hors_jeu":"0","goals":"6"},"team2":{"passes":"2","tirs":"1","corners":"1","penalties":"0","coups_franc":"2","centres":"3","hors_jeu":"2","goals":"4"},"players":{"1":{"id":"1","dribbles_reussis":"1","interceptions":"1","passes_decisives":"1","tirs_cadres":"1","fautes":"1"},"3":{"id":"3","dribbles_reussis":"1","interceptions":"1","passes_decisives":"1","tirs_cadres":"1","fautes":"1"},"4":{"id":"4","dribbles_reussis":"3","interceptions":"2","passes_decisives":"2","tirs_cadres":"1","fautes":"2"},"5":{"id":"5","dribbles_reussis":"2","interceptions":"0","passes_decisives":"1","tirs_cadres":"2","fautes":"1"}}}
+[18-Mar-2025 01:15:08 UTC] Processing match ID: 19
+[18-Mar-2025 01:15:08 UTC] Executing match update with params: Array
+(
+    [:score1] => 6
+    [:score2] => 4
+    [:match_id] => 19
+)
+
+[18-Mar-2025 01:15:08 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 01:15:08 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 01:15:08 UTC] Successfully completed all updates for match 19
+[18-Mar-2025 01:18:08 UTC] Received data: {"match_id":20,"team1":{"passes":"3","tirs":"2","corners":"2","penalties":"1","coups_franc":"2","centres":"1","hors_jeu":"1","goals":"1"},"team2":{"passes":"3","tirs":"2","corners":"2","penalties":"3","coups_franc":"0","centres":"1","hors_jeu":"1","goals":"2"},"players":{"1":{"id":"1","dribbles_reussis":"2","interceptions":"1","passes_decisives":"1","tirs_cadres":"2","fautes":"3"},"3":{"id":"3","dribbles_reussis":"2","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"3","interceptions":"1","passes_decisives":"3","tirs_cadres":"2","fautes":"0"},"5":{"id":"5","dribbles_reussis":"1","interceptions":"2","passes_decisives":"2","tirs_cadres":"1","fautes":"1"}}}
+[18-Mar-2025 01:18:08 UTC] Processing match ID: 20
+[18-Mar-2025 01:18:08 UTC] Executing match update with params: Array
+(
+    [:score1] => 1
+    [:score2] => 2
+    [:match_id] => 20
+)
+
+[18-Mar-2025 01:18:08 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 01:18:08 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 01:18:08 UTC] Successfully completed all updates for match 20
