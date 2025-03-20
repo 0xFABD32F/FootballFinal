@@ -39,6 +39,36 @@ try {
     $match_id = $data['match_id'];
     error_log("Processing match ID: " . $match_id);
 
+    // Check if match is editable based on time
+    $stmt = $conn->prepare("
+        SELECT etat, DATE_FORMAT(CONCAT(date_match, ' ', heure_debut), '%Y-%m-%d %H:%i:%s') as match_datetime 
+        FROM matches 
+        WHERE id = :match_id
+    ");
+    
+    if (!$stmt->execute([':match_id' => $match_id])) {
+        throw new Exception("Failed to get match details: " . print_r($stmt->errorInfo(), true));
+    }
+    
+    $match_details = $stmt->fetch(PDO::FETCH_ASSOC);
+    if (!$match_details) {
+        throw new Exception("No match found for ID: " . $match_id);
+    }
+    
+    // If match is scheduled (prevu) and it's less than 15 minutes until start time, block modification
+    if ($match_details['etat'] === 'prevu') {
+        $match_time = strtotime($match_details['match_datetime']);
+        $current_time = time();
+        $time_diff_minutes = ($match_time - $current_time) / 60;
+        
+        error_log("Match time: " . date('Y-m-d H:i:s', $match_time) . ", Current time: " . date('Y-m-d H:i:s', $current_time));
+        error_log("Time difference in minutes: " . $time_diff_minutes);
+        
+        if ($time_diff_minutes <= 15 && $time_diff_minutes > 0) {
+            throw new Exception("Match cannot be modified as it starts in less than 15 minutes");
+        }
+    }
+
     // Validate required data
     if (!isset($data['team1']) || !isset($data['team2'])) {
         throw new Exception("Missing team data in request");

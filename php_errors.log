@@ -260,3 +260,962 @@
 
 [18-Mar-2025 01:18:08 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
 [18-Mar-2025 01:18:08 UTC] Successfully completed all updates for match 20
+[18-Mar-2025 11:54:05 UTC] Received data: {"match_id":22,"team1":{"passes":"4","tirs":"0","corners":"0","penalties":"2","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"2","tirs":"3","corners":"0","penalties":"2","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"2","interceptions":"2","passes_decisives":"1","tirs_cadres":"1","fautes":"0"},"5":{"id":"5","dribbles_reussis":"1","interceptions":"2","passes_decisives":"0","tirs_cadres":"1","fautes":"0"}}}
+[18-Mar-2025 11:54:05 UTC] Processing match ID: 22
+[18-Mar-2025 11:54:05 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 22
+)
+
+[18-Mar-2025 11:54:05 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 11:54:05 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 11:54:05 UTC] Successfully completed all updates for match 22
+[18-Mar-2025 11:56:11 UTC] Received data: {"match_id":23,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"1"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 11:56:11 UTC] Processing match ID: 23
+[18-Mar-2025 11:56:11 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 1
+    [:match_id] => 23
+)
+
+[18-Mar-2025 11:56:11 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 11:56:11 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 11:56:11 UTC] Successfully completed all updates for match 23
+[18-Mar-2025 12:04:49 UTC] Received data: {"match_id":24,"team1":{"passes":"2","tirs":"2","corners":"3","penalties":"2","coups_franc":"3","centres":"1","hors_jeu":"1","goals":"2"},"team2":{"passes":"3","tirs":"3","corners":"2","penalties":"2","coups_franc":"2","centres":"2","hors_jeu":"2","goals":"2"},"players":{"1":{"id":"1","dribbles_reussis":"2","interceptions":"1","passes_decisives":"1","tirs_cadres":"2","fautes":"2"},"3":{"id":"3","dribbles_reussis":"2","interceptions":"0","passes_decisives":"1","tirs_cadres":"2","fautes":"1"},"4":{"id":"4","dribbles_reussis":"3","interceptions":"2","passes_decisives":"1","tirs_cadres":"1","fautes":"2"},"5":{"id":"5","dribbles_reussis":"1","interceptions":"2","passes_decisives":"2","tirs_cadres":"0","fautes":"0"}}}
+[18-Mar-2025 12:04:49 UTC] Processing match ID: 24
+[18-Mar-2025 12:04:49 UTC] Executing match update with params: Array
+(
+    [:score1] => 2
+    [:score2] => 2
+    [:match_id] => 24
+)
+
+[18-Mar-2025 12:04:49 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[18-Mar-2025 12:04:49 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[18-Mar-2025 12:04:49 UTC] Successfully completed all updates for match 24
+[19-Mar-2025 15:29:35 UTC] Received data: {"match_id":25,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"4"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"2"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"4","interceptions":"3","passes_decisives":"2","tirs_cadres":"2","fautes":"1"},"4":{"id":"4","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"2","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[19-Mar-2025 15:29:35 UTC] Processing match ID: 25
+[19-Mar-2025 15:29:35 UTC] Executing match update with params: Array
+(
+    [:score1] => 4
+    [:score2] => 2
+    [:match_id] => 25
+)
+
+[19-Mar-2025 15:29:35 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 9
+    [equipe_exterieur_id] => 8
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[19-Mar-2025 15:29:35 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[19-Mar-2025 15:29:35 UTC] Successfully completed all updates for match 25
+[20-Mar-2025 00:41:12 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:41:12 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:41:12 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:41:22 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:41:22 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:41:22 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:41:38 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:41:38 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 35
+[20-Mar-2025 00:41:38 UTC] get_upcoming_match.php: Match time: 2025-03-26 00:41:00, Current time: 2025-03-20 00:41:38, Diff in seconds: 518362
+[20-Mar-2025 00:41:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:41:39 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 35
+[20-Mar-2025 00:41:39 UTC] get_upcoming_match.php: Match time: 2025-03-26 00:41:00, Current time: 2025-03-20 00:41:39, Diff in seconds: 518361
+[20-Mar-2025 00:42:04 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:42:04 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 35
+[20-Mar-2025 00:42:04 UTC] get_upcoming_match.php: Match time: 2025-03-26 00:41:00, Current time: 2025-03-20 00:42:04, Diff in seconds: 518336
+[20-Mar-2025 00:43:04 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:43:04 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 35
+[20-Mar-2025 00:43:04 UTC] get_upcoming_match.php: Match time: 2025-03-26 00:41:00, Current time: 2025-03-20 00:43:04, Diff in seconds: 518276
+[20-Mar-2025 00:43:30 UTC] Received data: {"match_id":35,"team1":{"passes":"3","tirs":"2","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 00:43:30 UTC] Processing match ID: 35
+[20-Mar-2025 00:43:30 UTC] Executing match update with params: Array
+(
+    [:score1] => 0
+    [:score2] => 0
+    [:match_id] => 35
+)
+
+[20-Mar-2025 00:43:30 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 9
+    [equipe_exterieur_id] => 8
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[20-Mar-2025 00:43:30 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[20-Mar-2025 00:43:30 UTC] Successfully completed all updates for match 35
+[20-Mar-2025 00:44:01 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:01 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:44:01 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:44:15 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:15 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 36
+[20-Mar-2025 00:44:15 UTC] get_upcoming_match.php: Match time: 2025-03-20 06:44:00, Current time: 2025-03-20 00:44:15, Diff in seconds: 21585
+[20-Mar-2025 00:44:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 36
+[20-Mar-2025 00:44:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 06:44:00, Current time: 2025-03-20 00:44:18, Diff in seconds: 21582
+[20-Mar-2025 00:44:39 UTC] Received data: {"match_id":36,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 00:44:39 UTC] Processing match ID: 36
+[20-Mar-2025 00:44:39 UTC] Executing match update with params: Array
+(
+    [:score1] => 0
+    [:score2] => 0
+    [:match_id] => 36
+)
+
+[20-Mar-2025 00:44:39 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 9
+    [equipe_exterieur_id] => 8
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[20-Mar-2025 00:44:39 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[20-Mar-2025 00:44:39 UTC] Successfully completed all updates for match 36
+[20-Mar-2025 00:44:43 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:43 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:44:43 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:44:48 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:48 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:44:48 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:44:49 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:49 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:44:49 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:44:50 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:50 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:44:50 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:44:52 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:52 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:44:52 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:44:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:44:59 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:44:59 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:45:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:45:59 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:45:59 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:46:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:46:59 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:46:59 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:47:34 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:47:34 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:47:34 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:47:34 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:47:34 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 00:47:34 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 00:47:52 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:47:52 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 37
+[20-Mar-2025 00:47:52 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:47:00, Current time: 2025-03-20 00:47:52, Diff in seconds: 3548
+[20-Mar-2025 00:47:54 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:47:54 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 37
+[20-Mar-2025 00:47:54 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:47:00, Current time: 2025-03-20 00:47:54, Diff in seconds: 3546
+[20-Mar-2025 00:48:02 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:48:02 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 37
+[20-Mar-2025 00:48:02 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:47:00, Current time: 2025-03-20 00:48:02, Diff in seconds: 3538
+[20-Mar-2025 00:48:29 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:48:29 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 37
+[20-Mar-2025 00:48:29 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:47:00, Current time: 2025-03-20 00:48:29, Diff in seconds: 3511
+[20-Mar-2025 00:48:30 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:48:30 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 37
+[20-Mar-2025 00:48:30 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:47:00, Current time: 2025-03-20 00:48:30, Diff in seconds: 3510
+[20-Mar-2025 00:48:48 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:48:48 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:48:48 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:48:48, Diff in seconds: 136812
+[20-Mar-2025 00:49:49 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:49:49 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:49:49 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:49:49, Diff in seconds: 136751
+[20-Mar-2025 00:50:49 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:50:49 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:50:49 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:50:49, Diff in seconds: 136691
+[20-Mar-2025 00:51:49 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:51:49 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:51:49 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:51:49, Diff in seconds: 136631
+[20-Mar-2025 00:52:11 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:52:11 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:52:11 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:52:11, Diff in seconds: 136609
+[20-Mar-2025 00:52:13 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:52:13 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:52:13 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:52:14, Diff in seconds: 136606
+[20-Mar-2025 00:52:26 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:52:26 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 39
+[20-Mar-2025 00:52:26 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:52:00, Current time: 2025-03-20 00:52:26, Diff in seconds: 3574
+[20-Mar-2025 00:52:27 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:52:27 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 39
+[20-Mar-2025 00:52:27 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:52:00, Current time: 2025-03-20 00:52:27, Diff in seconds: 3573
+[20-Mar-2025 00:52:31 UTC] delete_match.php: Attempting to delete match ID: 39
+[20-Mar-2025 00:52:31 UTC] delete_match.php: The match being deleted is the current countdown match
+[20-Mar-2025 00:52:31 UTC] delete_match.php: Deleting match: Raja Club Athletic vs Wydad Athletic club
+[20-Mar-2025 00:52:31 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 00:52:31 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 00:52:31 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 00:52:31 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 00:52:31 UTC] delete_match.php: Deleted match
+[20-Mar-2025 00:52:31 UTC] delete_match.php: New countdown match ID: 38
+[20-Mar-2025 00:52:32 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:52:32 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:52:32 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:52:32, Diff in seconds: 136588
+[20-Mar-2025 00:53:28 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:53:28 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:53:28 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:53:28, Diff in seconds: 136532
+[20-Mar-2025 00:54:28 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:54:28 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:54:28 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:54:28, Diff in seconds: 136472
+[20-Mar-2025 00:55:28 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:55:28 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:55:28 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:55:28, Diff in seconds: 136412
+[20-Mar-2025 00:56:28 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:56:28 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:56:28 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:56:28, Diff in seconds: 136352
+[20-Mar-2025 00:57:28 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:57:28 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:57:28 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:57:28, Diff in seconds: 136292
+[20-Mar-2025 00:58:29 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:58:29 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:58:29 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:58:29, Diff in seconds: 136231
+[20-Mar-2025 00:59:30 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 00:59:30 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 00:59:30 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 00:59:30, Diff in seconds: 136170
+[20-Mar-2025 01:00:31 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:00:31 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:00:31 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:00:31, Diff in seconds: 136109
+[20-Mar-2025 01:01:32 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:01:32 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:01:32 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:01:32, Diff in seconds: 136048
+[20-Mar-2025 01:02:33 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:02:33 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:02:33 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:02:33, Diff in seconds: 135987
+[20-Mar-2025 01:03:34 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:03:34 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:03:34 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:03:34, Diff in seconds: 135926
+[20-Mar-2025 01:04:35 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:04:35 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:04:35 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:04:35, Diff in seconds: 135865
+[20-Mar-2025 01:05:36 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:05:36 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:05:36 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:05:36, Diff in seconds: 135804
+[20-Mar-2025 01:06:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:06:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:06:37 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:06:37, Diff in seconds: 135743
+[20-Mar-2025 01:07:38 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:07:38 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:07:38 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:07:38, Diff in seconds: 135682
+[20-Mar-2025 01:08:20 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:08:20 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:08:20 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:08:20, Diff in seconds: 135640
+[20-Mar-2025 01:09:16 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:09:16 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:09:16 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:09:16, Diff in seconds: 135584
+[20-Mar-2025 01:09:56 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:09:56 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:09:56 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:09:56, Diff in seconds: 135544
+[20-Mar-2025 01:09:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:09:59 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:09:59 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:09:59, Diff in seconds: 135541
+[20-Mar-2025 01:09:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:09:59 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 38
+[20-Mar-2025 01:09:59 UTC] get_upcoming_match.php: Match time: 2025-03-21 14:49:00, Current time: 2025-03-20 01:09:59, Diff in seconds: 135541
+[20-Mar-2025 01:10:22 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:10:22 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:10:22 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:10:22, Diff in seconds: 21578
+[20-Mar-2025 01:10:23 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:10:23 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:10:23 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:10:23, Diff in seconds: 21577
+[20-Mar-2025 01:11:20 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:11:20 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:11:20 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:11:20, Diff in seconds: 21520
+[20-Mar-2025 01:11:33 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:11:33 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:11:33 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:11:33, Diff in seconds: 21507
+[20-Mar-2025 01:11:36 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:11:36 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:11:36 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:11:36, Diff in seconds: 21504
+[20-Mar-2025 01:11:43 UTC] delete_match.php: Attempting to delete match ID: 38
+[20-Mar-2025 01:11:43 UTC] delete_match.php: Deleting match: Raja Club Athletic vs Wydad Athletic club
+[20-Mar-2025 01:11:43 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 01:11:43 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 01:11:43 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 01:11:43 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 01:11:43 UTC] delete_match.php: Deleted match
+[20-Mar-2025 01:11:47 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:11:47 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:11:47 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:11:47, Diff in seconds: 21493
+[20-Mar-2025 01:12:05 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:12:05 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 41
+[20-Mar-2025 01:12:05 UTC] get_upcoming_match.php: Match time: 2025-03-20 06:11:00, Current time: 2025-03-20 01:12:05, Diff in seconds: 17935
+[20-Mar-2025 01:12:07 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:12:07 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 41
+[20-Mar-2025 01:12:07 UTC] get_upcoming_match.php: Match time: 2025-03-20 06:11:00, Current time: 2025-03-20 01:12:07, Diff in seconds: 17933
+[20-Mar-2025 01:12:13 UTC] delete_match.php: Attempting to delete match ID: 41
+[20-Mar-2025 01:12:13 UTC] delete_match.php: The match being deleted is the current countdown match
+[20-Mar-2025 01:12:13 UTC] delete_match.php: Deleting match: Raja Club Athletic vs Wydad Athletic club
+[20-Mar-2025 01:12:13 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 01:12:13 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 01:12:13 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 01:12:13 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 01:12:13 UTC] delete_match.php: Deleted match
+[20-Mar-2025 01:12:13 UTC] delete_match.php: New countdown match ID: 40
+[20-Mar-2025 01:12:13 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:12:13 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:12:13 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:12:13, Diff in seconds: 21467
+[20-Mar-2025 01:13:07 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:13:07 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:13:07 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:13:07, Diff in seconds: 21413
+[20-Mar-2025 01:14:07 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:14:07 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:14:07 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:14:07, Diff in seconds: 21353
+[20-Mar-2025 01:15:07 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:15:07 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:15:07 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:15:07, Diff in seconds: 21293
+[20-Mar-2025 01:15:53 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:15:53 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:15:53 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:15:53, Diff in seconds: 21247
+[20-Mar-2025 01:16:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:16:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:16:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:16:18, Diff in seconds: 21222
+[20-Mar-2025 01:16:42 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:16:42 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 42
+[20-Mar-2025 01:16:42 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:17:00, Current time: 2025-03-20 01:16:42, Diff in seconds: 18
+[20-Mar-2025 01:16:43 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:16:43 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 42
+[20-Mar-2025 01:16:43 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:17:00, Current time: 2025-03-20 01:16:43, Diff in seconds: 17
+[20-Mar-2025 01:17:43 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:17:43 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:17:43 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:17:43, Diff in seconds: 21137
+[20-Mar-2025 01:18:44 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:18:44 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:18:44 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:18:44, Diff in seconds: 21076
+[20-Mar-2025 01:19:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:19:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:19:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:19:18, Diff in seconds: 21042
+[20-Mar-2025 01:20:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:20:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:20:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:20:18, Diff in seconds: 20982
+[20-Mar-2025 01:21:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:21:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:21:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:21:18, Diff in seconds: 20922
+[20-Mar-2025 01:22:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:22:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:22:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:22:18, Diff in seconds: 20862
+[20-Mar-2025 01:23:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:23:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:23:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:23:18, Diff in seconds: 20802
+[20-Mar-2025 01:24:19 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:24:19 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:24:19 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:24:19, Diff in seconds: 20741
+[20-Mar-2025 01:25:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:25:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:25:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:25:18, Diff in seconds: 20682
+[20-Mar-2025 01:26:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:26:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:26:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:26:18, Diff in seconds: 20622
+[20-Mar-2025 01:27:19 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:27:19 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:27:19 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:27:19, Diff in seconds: 20561
+[20-Mar-2025 01:28:20 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:28:20 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:28:20 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:28:20, Diff in seconds: 20500
+[20-Mar-2025 01:29:21 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:29:21 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:29:21 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:29:21, Diff in seconds: 20439
+[20-Mar-2025 01:30:22 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:30:22 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:30:22 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:30:22, Diff in seconds: 20378
+[20-Mar-2025 01:31:23 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:31:23 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:31:23 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:31:23, Diff in seconds: 20317
+[20-Mar-2025 01:32:24 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:32:24 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:32:24 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:32:24, Diff in seconds: 20256
+[20-Mar-2025 01:33:25 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:33:25 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:33:25 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:33:25, Diff in seconds: 20195
+[20-Mar-2025 01:34:25 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:34:25 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:34:25 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:34:25, Diff in seconds: 20135
+[20-Mar-2025 01:34:27 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:34:27 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 40
+[20-Mar-2025 01:34:27 UTC] get_upcoming_match.php: Match time: 2025-03-20 07:10:00, Current time: 2025-03-20 01:34:27, Diff in seconds: 20133
+[20-Mar-2025 01:34:34 UTC] delete_match.php: Attempting to delete match ID: 40
+[20-Mar-2025 01:34:34 UTC] delete_match.php: The match being deleted is the current countdown match
+[20-Mar-2025 01:34:34 UTC] delete_match.php: Deleting match: Wydad Athletic club vs Raja Club Athletic
+[20-Mar-2025 01:34:34 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 01:34:34 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 01:34:34 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 01:34:34 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 01:34:34 UTC] delete_match.php: Deleted match
+[20-Mar-2025 01:34:34 UTC] delete_match.php: No more upcoming matches
+[20-Mar-2025 01:34:34 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:34:34 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:34:34 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:34:38 UTC] delete_match.php: Attempting to delete match ID: 42
+[20-Mar-2025 01:34:38 UTC] delete_match.php: Deleting match: Raja Club Athletic vs Wydad Athletic club
+[20-Mar-2025 01:34:38 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 01:34:38 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 01:34:38 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 01:34:38 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 01:34:38 UTC] delete_match.php: Deleted match
+[20-Mar-2025 01:34:40 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:34:40 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:34:40 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:35:01 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:35:01 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 43
+[20-Mar-2025 01:35:01 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:36:00, Current time: 2025-03-20 01:35:01, Diff in seconds: 59
+[20-Mar-2025 01:35:04 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:35:04 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 43
+[20-Mar-2025 01:35:04 UTC] get_upcoming_match.php: Match time: 2025-03-20 01:36:00, Current time: 2025-03-20 01:35:04, Diff in seconds: 56
+[20-Mar-2025 01:36:04 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:36:04 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:36:04 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:36:12 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:36:12 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:36:12 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:37:12 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:37:12 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:37:12 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:37:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:37:39 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:37:39 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:38:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:38:39 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:38:39 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:39:29 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:39:29 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:39:29 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:39:30 UTC] delete_match.php: Attempting to delete match ID: 43
+[20-Mar-2025 01:39:30 UTC] delete_match.php: Deleting match: Raja Club Athletic vs Wydad Athletic club
+[20-Mar-2025 01:39:30 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 01:39:30 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 01:39:30 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 01:39:30 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 01:39:30 UTC] delete_match.php: Deleted match
+[20-Mar-2025 01:39:32 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:39:32 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:39:32 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:40:05 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:40:05 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:40:05 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:40:06 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:40:06 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:40:06 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:40:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:40:18 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:40:18 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:40:35 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:40:35 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 45
+[20-Mar-2025 01:40:35 UTC] get_upcoming_match.php: Match time: 2025-03-20 03:40:00, Current time: 2025-03-20 01:40:35, Diff in seconds: 7165
+[20-Mar-2025 01:40:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:40:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 45
+[20-Mar-2025 01:40:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 03:40:00, Current time: 2025-03-20 01:40:37, Diff in seconds: 7163
+[20-Mar-2025 01:41:21 UTC] Received data: {"match_id":45,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:41:21 UTC] Processing match ID: 45
+[20-Mar-2025 01:41:21 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:41:21 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:41:32 UTC] Received data: {"match_id":44,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:41:32 UTC] Processing match ID: 44
+[20-Mar-2025 01:41:32 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:41:32 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:41:35 UTC] Received data: {"match_id":45,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:41:35 UTC] Processing match ID: 45
+[20-Mar-2025 01:41:35 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:41:35 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:41:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:41:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 45
+[20-Mar-2025 01:41:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 03:40:00, Current time: 2025-03-20 01:41:37, Diff in seconds: 7103
+[20-Mar-2025 01:41:42 UTC] Received data: {"match_id":45,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:41:42 UTC] Processing match ID: 45
+[20-Mar-2025 01:41:42 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:41:42 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:41:52 UTC] Received data: {"match_id":45,"team1":{"passes":"6","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"4","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:41:52 UTC] Processing match ID: 45
+[20-Mar-2025 01:41:52 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:41:52 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:42:35 UTC] Received data: {"match_id":45,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:42:35 UTC] Processing match ID: 45
+[20-Mar-2025 01:42:35 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:42:35 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:42:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:42:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 45
+[20-Mar-2025 01:42:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 03:40:00, Current time: 2025-03-20 01:42:37, Diff in seconds: 7043
+[20-Mar-2025 01:43:18 UTC] Received data: {"match_id":45,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:43:18 UTC] Processing match ID: 45
+[20-Mar-2025 01:43:18 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:43:18 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:43:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:43:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 45
+[20-Mar-2025 01:43:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 03:40:00, Current time: 2025-03-20 01:43:37, Diff in seconds: 6983
+[20-Mar-2025 01:44:00 UTC] delete_match.php: Attempting to delete match ID: 45
+[20-Mar-2025 01:44:00 UTC] delete_match.php: The match being deleted is the current countdown match
+[20-Mar-2025 01:44:00 UTC] delete_match.php: Deleting match: Raja Club Athletic vs Wydad Athletic club
+[20-Mar-2025 01:44:00 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 01:44:00 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 01:44:00 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 01:44:00 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 01:44:00 UTC] delete_match.php: Deleted match
+[20-Mar-2025 01:44:00 UTC] delete_match.php: No more upcoming matches
+[20-Mar-2025 01:44:01 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:44:01 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:44:01 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:44:04 UTC] Received data: {"match_id":44,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:44:04 UTC] Processing match ID: 44
+[20-Mar-2025 01:44:04 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:44:04 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:44:25 UTC] Received data: {"match_id":44,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:44:25 UTC] Processing match ID: 44
+[20-Mar-2025 01:44:25 UTC] Error in finish_match.php: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jour' in 'field list'
+[20-Mar-2025 01:44:25 UTC] Stack trace: #0 C:\wamp64\www\FootballFinal\finish_match.php(43): PDO->prepare('\n        SELECT...')
+#1 {main}
+[20-Mar-2025 01:44:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:44:37 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:44:37 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:45:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:45:37 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:45:37 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:45:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:45:59 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:45:59 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 01:46:00 UTC] Received data: {"match_id":44,"team1":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"team2":{"passes":"0","tirs":"0","corners":"0","penalties":"0","coups_franc":"0","centres":"0","hors_jeu":"0","goals":"0"},"players":{"1":{"id":"1","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"3":{"id":"3","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"},"5":{"id":"5","dribbles_reussis":"0","interceptions":"0","passes_decisives":"0","tirs_cadres":"0","fautes":"0"}}}
+[20-Mar-2025 01:46:00 UTC] Processing match ID: 44
+[20-Mar-2025 01:46:00 UTC] Match time: 2025-03-20 01:39:00, Current time: 2025-03-20 01:46:00
+[20-Mar-2025 01:46:00 UTC] Time difference in minutes: -7
+[20-Mar-2025 01:46:00 UTC] Executing match update with params: Array
+(
+    [:score1] => 0
+    [:score2] => 0
+    [:match_id] => 44
+)
+
+[20-Mar-2025 01:46:00 UTC] Found teams and tournament info: Array
+(
+    [equipe_domicile_id] => 8
+    [equipe_exterieur_id] => 9
+    [tournois_id] => 1
+    [type_id] => 1
+    [tournoi_nom] => Al Botola Pro
+)
+
+[20-Mar-2025 01:46:00 UTC] Not updating standings - tournament is not Botola Pro: Al Botola Pro
+[20-Mar-2025 01:46:00 UTC] Successfully completed all updates for match 44
+[20-Mar-2025 01:46:06 UTC] delete_match.php: Attempting to delete match ID: 44
+[20-Mar-2025 01:46:06 UTC] delete_match.php: Deleting match: Raja Club Athletic vs Wydad Athletic club
+[20-Mar-2025 01:46:06 UTC] delete_match.php: Deleted player statistics
+[20-Mar-2025 01:46:06 UTC] delete_match.php: Deleted team statistics
+[20-Mar-2025 01:46:06 UTC] delete_match.php: Deleted participations
+[20-Mar-2025 01:46:06 UTC] delete_match.php: Deleted match events
+[20-Mar-2025 01:46:06 UTC] delete_match.php: Deleted match
+[20-Mar-2025 01:46:33 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 01:46:33 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 01:46:33 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 02:03:43 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:03:43 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 02:03:43 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 02:03:45 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:03:45 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 02:03:45 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 02:03:47 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:03:47 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 02:03:47 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 02:03:53 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:03:53 UTC] get_upcoming_match.php: Query executed. Found match: No
+[20-Mar-2025 02:03:53 UTC] get_upcoming_match.php: No upcoming matches found
+[20-Mar-2025 02:04:08 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:04:08 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:04:08 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:04:08, Diff in seconds: 10792
+[20-Mar-2025 02:04:09 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:04:09 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:04:09 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:04:09, Diff in seconds: 10791
+[20-Mar-2025 02:04:21 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:04:21 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:04:21 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:04:21, Diff in seconds: 10779
+[20-Mar-2025 02:04:23 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:04:23 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:04:23 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:04:23, Diff in seconds: 10777
+[20-Mar-2025 02:05:03 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:05:03 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:05:03 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:05:03, Diff in seconds: 10737
+[20-Mar-2025 02:06:03 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:06:03 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:06:03 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:06:03, Diff in seconds: 10677
+[20-Mar-2025 02:07:03 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:07:03 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:07:03 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:07:03, Diff in seconds: 10617
+[20-Mar-2025 02:08:03 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:08:03 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:08:03 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:08:03, Diff in seconds: 10557
+[20-Mar-2025 02:09:03 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:09:03 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:09:03 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:09:03, Diff in seconds: 10497
+[20-Mar-2025 02:10:03 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:10:03 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:10:03 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:10:03, Diff in seconds: 10437
+[20-Mar-2025 02:11:04 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:11:04 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:11:04 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:11:04, Diff in seconds: 10376
+[20-Mar-2025 02:11:28 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:11:28 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:11:28 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:11:28, Diff in seconds: 10352
+[20-Mar-2025 02:11:34 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:11:34 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:11:34 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:11:34, Diff in seconds: 10346
+[20-Mar-2025 02:11:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:11:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:11:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:11:37, Diff in seconds: 10343
+[20-Mar-2025 02:12:11 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:12:11 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:12:11 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:12:11, Diff in seconds: 10309
+[20-Mar-2025 02:12:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:12:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:12:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:12:18, Diff in seconds: 10302
+[20-Mar-2025 02:13:18 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:13:18 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:13:18 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:13:18, Diff in seconds: 10242
+[20-Mar-2025 02:13:33 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:13:33 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:13:33 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:13:33, Diff in seconds: 10227
+[20-Mar-2025 02:14:33 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:14:33 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:14:33 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:14:33, Diff in seconds: 10167
+[20-Mar-2025 02:14:35 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:14:35 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:14:35 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:14:35, Diff in seconds: 10165
+[20-Mar-2025 02:14:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:14:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:14:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:14:37, Diff in seconds: 10163
+[20-Mar-2025 02:15:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:15:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:15:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:15:37, Diff in seconds: 10103
+[20-Mar-2025 02:15:42 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:15:42 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:15:42 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:15:42, Diff in seconds: 10098
+[20-Mar-2025 02:15:45 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:15:45 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:15:45 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:15:45, Diff in seconds: 10095
+[20-Mar-2025 02:15:51 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:15:51 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:15:51 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:15:51, Diff in seconds: 10089
+[20-Mar-2025 02:15:52 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:15:52 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:15:52 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:15:52, Diff in seconds: 10088
+[20-Mar-2025 02:16:12 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:16:12 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:16:12 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:16:12, Diff in seconds: 10068
+[20-Mar-2025 02:16:17 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:16:17 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:16:17 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:16:17, Diff in seconds: 10063
+[20-Mar-2025 02:17:17 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:17:17 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:17:17 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:17:17, Diff in seconds: 10003
+[20-Mar-2025 02:18:17 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:18:17 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:18:17 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:18:17, Diff in seconds: 9943
+[20-Mar-2025 02:18:21 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:18:21 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:18:21 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:18:21, Diff in seconds: 9939
+[20-Mar-2025 02:18:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:18:39 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:18:39 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:18:39, Diff in seconds: 9921
+[20-Mar-2025 02:18:41 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:18:41 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:18:41 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:18:41, Diff in seconds: 9919
+[20-Mar-2025 02:18:46 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:18:46 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:18:46 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:18:46, Diff in seconds: 9914
+[20-Mar-2025 02:19:22 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:19:22 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:19:22 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:19:22, Diff in seconds: 9878
+[20-Mar-2025 02:19:24 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:19:24 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:19:24 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:19:24, Diff in seconds: 9876
+[20-Mar-2025 02:19:28 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:19:28 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:19:28 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:19:28, Diff in seconds: 9872
+[20-Mar-2025 02:19:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:19:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:19:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:19:37, Diff in seconds: 9863
+[20-Mar-2025 02:19:41 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:19:41 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:19:41 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:19:41, Diff in seconds: 9859
+[20-Mar-2025 02:20:13 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:20:13 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:20:13 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:20:13, Diff in seconds: 9827
+[20-Mar-2025 02:20:16 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:20:16 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:20:16 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:20:16, Diff in seconds: 9824
+[20-Mar-2025 02:20:26 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:20:26 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:20:26 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:20:26, Diff in seconds: 9814
+[20-Mar-2025 02:21:26 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:21:26 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:21:26 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:21:26, Diff in seconds: 9754
+[20-Mar-2025 02:22:26 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:22:26 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:22:26 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:22:26, Diff in seconds: 9694
+[20-Mar-2025 02:23:26 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:23:26 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:23:26 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:23:26, Diff in seconds: 9634
+[20-Mar-2025 02:24:04 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:24:04 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:24:04 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:24:04, Diff in seconds: 9596
+[20-Mar-2025 02:24:10 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:24:10 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:24:10 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:24:10, Diff in seconds: 9590
+[20-Mar-2025 02:24:14 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:24:14 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:24:14 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:24:14, Diff in seconds: 9586
+[20-Mar-2025 02:24:17 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:24:17 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:24:17 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:24:17, Diff in seconds: 9583
+[20-Mar-2025 02:24:22 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:24:22 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:24:22 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:24:22, Diff in seconds: 9578
+[20-Mar-2025 02:24:25 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:24:25 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:24:25 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:24:25, Diff in seconds: 9575
+[20-Mar-2025 02:24:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:24:39 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:24:39 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:24:39, Diff in seconds: 9561
+[20-Mar-2025 02:25:24 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:25:24 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:25:24 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:25:24, Diff in seconds: 9516
+[20-Mar-2025 02:25:27 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:25:27 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:25:27 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:25:27, Diff in seconds: 9513
+[20-Mar-2025 02:26:27 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:26:27 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:26:27 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:26:27, Diff in seconds: 9453
+[20-Mar-2025 02:27:16 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:27:16 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:27:16 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:27:16, Diff in seconds: 9404
+[20-Mar-2025 02:27:48 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:27:48 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:27:48 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:27:48, Diff in seconds: 9372
+[20-Mar-2025 02:27:51 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:27:51 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:27:51 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:27:51, Diff in seconds: 9369
+[20-Mar-2025 02:27:56 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:27:56 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:27:56 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:27:56, Diff in seconds: 9364
+[20-Mar-2025 02:28:07 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:28:07 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 46
+[20-Mar-2025 02:28:07 UTC] get_upcoming_match.php: Match time: 2025-03-20 05:04:00, Current time: 2025-03-20 02:28:07, Diff in seconds: 9353
+[20-Mar-2025 02:28:25 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:28:25 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:28:25 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:28:25, Diff in seconds: 7175
+[20-Mar-2025 02:28:27 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:28:27 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:28:27 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:28:27, Diff in seconds: 7173
+[20-Mar-2025 02:29:03 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:29:03 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:29:03 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:29:03, Diff in seconds: 7137
+[20-Mar-2025 02:29:06 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:29:06 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:29:06 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:29:06, Diff in seconds: 7134
+[20-Mar-2025 02:29:19 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:29:19 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:29:19 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:29:19, Diff in seconds: 7121
+[20-Mar-2025 02:29:23 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:29:24 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:29:24 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:29:24, Diff in seconds: 7116
+[20-Mar-2025 02:29:26 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:29:26 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:29:26 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:29:26, Diff in seconds: 7114
+[20-Mar-2025 02:30:26 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:30:26 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:30:26 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:30:26, Diff in seconds: 7054
+[20-Mar-2025 02:30:55 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:30:55 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:30:55 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:30:55, Diff in seconds: 7025
+[20-Mar-2025 02:31:25 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:31:25 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:31:25 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:31:25, Diff in seconds: 6995
+[20-Mar-2025 02:31:27 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:31:27 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:31:27 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:31:27, Diff in seconds: 6993
+[20-Mar-2025 02:31:29 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:31:29 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:31:29 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:31:29, Diff in seconds: 6991
+[20-Mar-2025 02:31:31 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:31:31 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:31:31 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:31:31, Diff in seconds: 6989
+[20-Mar-2025 02:31:33 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:31:33 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:31:33 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:31:33, Diff in seconds: 6987
+[20-Mar-2025 02:31:36 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:31:36 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:31:36 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:31:36, Diff in seconds: 6984
+[20-Mar-2025 02:31:38 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:31:38 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:31:38 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:31:38, Diff in seconds: 6982
+[20-Mar-2025 02:32:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:32:39 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:32:39 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:32:39, Diff in seconds: 6921
+[20-Mar-2025 02:33:35 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:33:35 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:33:35 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:33:35, Diff in seconds: 6865
+[20-Mar-2025 02:34:14 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:34:14 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:34:14 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:34:14, Diff in seconds: 6826
+[20-Mar-2025 02:34:38 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:34:38 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:34:38 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:34:38, Diff in seconds: 6802
+[20-Mar-2025 02:34:42 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:34:42 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:34:42 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:34:42, Diff in seconds: 6798
+[20-Mar-2025 02:35:08 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:35:08 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:35:08 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:35:08, Diff in seconds: 6772
+[20-Mar-2025 02:35:34 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:35:34 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:35:34 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:35:34, Diff in seconds: 6746
+[20-Mar-2025 02:35:37 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:35:37 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:35:37 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:35:37, Diff in seconds: 6743
+[20-Mar-2025 02:35:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:35:39 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:35:39 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:35:39, Diff in seconds: 6741
+[20-Mar-2025 02:36:39 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:36:39 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:36:39 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:36:39, Diff in seconds: 6681
+[20-Mar-2025 02:37:05 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:05 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:05 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:05, Diff in seconds: 6655
+[20-Mar-2025 02:37:11 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:11 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:11 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:11, Diff in seconds: 6649
+[20-Mar-2025 02:37:17 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:17 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:17 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:17, Diff in seconds: 6643
+[20-Mar-2025 02:37:23 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:23 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:23 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:23, Diff in seconds: 6637
+[20-Mar-2025 02:37:25 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:25 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:25 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:25, Diff in seconds: 6635
+[20-Mar-2025 02:37:44 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:44 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:44 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:44, Diff in seconds: 6616
+[20-Mar-2025 02:37:51 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:51 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:51 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:51, Diff in seconds: 6609
+[20-Mar-2025 02:37:52 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:52 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:52 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:52, Diff in seconds: 6608
+[20-Mar-2025 02:37:55 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:55 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:55 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:55, Diff in seconds: 6605
+[20-Mar-2025 02:37:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:37:59 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:37:59 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:37:59, Diff in seconds: 6601
+[20-Mar-2025 02:38:02 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:38:02 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:38:02 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:38:02, Diff in seconds: 6598
+[20-Mar-2025 02:38:05 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:38:05 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:38:05 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:38:05, Diff in seconds: 6595
+[20-Mar-2025 02:38:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:38:59 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:38:59 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:38:59, Diff in seconds: 6541
+[20-Mar-2025 02:40:00 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:40:00 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:40:00 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:40:00, Diff in seconds: 6480
+[20-Mar-2025 02:40:12 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:40:12 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:40:12 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:40:12, Diff in seconds: 6468
+[20-Mar-2025 02:40:14 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:40:14 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:40:14 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:40:14, Diff in seconds: 6466
+[20-Mar-2025 02:40:16 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:40:16 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:40:16 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:40:16, Diff in seconds: 6464
+[20-Mar-2025 02:40:19 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:40:19 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:40:19 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:40:19, Diff in seconds: 6461
+[20-Mar-2025 02:41:20 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:41:20 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:41:20 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:41:20, Diff in seconds: 6400
+[20-Mar-2025 02:41:49 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:41:49 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:41:49 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:41:49, Diff in seconds: 6371
+[20-Mar-2025 02:41:51 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:41:51 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:41:51 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:41:51, Diff in seconds: 6369
+[20-Mar-2025 02:41:52 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:41:52 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:41:52 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:41:52, Diff in seconds: 6368
+[20-Mar-2025 02:42:52 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:42:52 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:42:52 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:42:52, Diff in seconds: 6308
+[20-Mar-2025 02:42:54 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:42:54 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:42:54 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:42:54, Diff in seconds: 6306
+[20-Mar-2025 02:42:55 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:42:55 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:42:55 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:42:55, Diff in seconds: 6305
+[20-Mar-2025 02:42:56 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:42:56 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:42:56 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:42:56, Diff in seconds: 6304
+[20-Mar-2025 02:42:58 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:42:58 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:42:58 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:42:58, Diff in seconds: 6302
+[20-Mar-2025 02:42:59 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:42:59 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:42:59 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:42:59, Diff in seconds: 6301
+[20-Mar-2025 02:43:02 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:43:02 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:43:02 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:43:02, Diff in seconds: 6298
+[20-Mar-2025 02:43:02 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:43:02 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:43:02 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:43:02, Diff in seconds: 6298
+[20-Mar-2025 02:43:04 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:43:04 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:43:04 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:43:04, Diff in seconds: 6296
+[20-Mar-2025 02:54:06 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:54:06 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:54:06 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:54:06, Diff in seconds: 5634
+[20-Mar-2025 02:54:11 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:54:11 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:54:11 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:54:11, Diff in seconds: 5629
+[20-Mar-2025 02:54:16 UTC] get_upcoming_match.php: Fetching upcoming matches for admin ID: 5
+[20-Mar-2025 02:54:16 UTC] get_upcoming_match.php: Query executed. Found match: Yes, ID: 47
+[20-Mar-2025 02:54:16 UTC] get_upcoming_match.php: Match time: 2025-03-20 04:28:00, Current time: 2025-03-20 02:54:16, Diff in seconds: 5624

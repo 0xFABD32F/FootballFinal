@@ -105,7 +105,7 @@ try {
     <div class="space-y-6">
         <!-- Match Header -->
         <div class="flex justify-between items-center mb-6">
-            <h2 class="text-2xl font-bold text-gray-900">
+            <h2 class="text-2xl font-bold text-gray-900 dark:text-white transition-colors duration-200">
                 <?php echo htmlspecialchars($match['equipe1_nom']); ?> vs <?php echo htmlspecialchars($match['equipe2_nom']); ?>
             </h2>
             <div class="flex space-x-4">
@@ -119,95 +119,95 @@ try {
         <!-- Team Statistics -->
         <div class="grid grid-cols-2 gap-6">
             <!-- Team 1 Stats -->
-            <div id="team1Stats" class="bg-gray-50 p-4 rounded-lg" data-team-id="<?php echo $match['equipe_domicile_id']; ?>">
-                <h3 class="text-lg font-semibold mb-4"><?php echo htmlspecialchars($match['equipe1_nom']); ?></h3>
+            <div id="team1Stats" class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg transition-colors duration-200" data-team-id="<?php echo $match['equipe_domicile_id']; ?>">
+                <h3 class="text-lg font-semibold mb-4 dark:text-white"><?php echo htmlspecialchars($match['equipe1_nom']); ?></h3>
                 <div class="space-y-3">
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Passes</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Passes</label>
                         <input type="number" name="team1[passes]" value="<?php echo $team1Stats['passes']; ?>" 
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Tirs</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Tirs</label>
                         <input type="number" name="team1[tirs]" value="<?php echo $team1Stats['tirs']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Corners</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Corners</label>
                         <input type="number" name="team1[corners]" value="<?php echo $team1Stats['corners']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Penalties</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Penalties</label>
                         <input type="number" name="team1[penalties]" value="<?php echo $team1Stats['penalties']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Coups francs</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Coups francs</label>
                         <input type="number" name="team1[coups_franc]" value="<?php echo $team1Stats['coups_franc']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Centres</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Centres</label>
                         <input type="number" name="team1[centres]" value="<?php echo $team1Stats['centres']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Hors-jeu</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Hors-jeu</label>
                         <input type="number" name="team1[hors_jeu]" value="<?php echo $team1Stats['hors_jeu']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Buts</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Buts</label>
                         <input type="number" name="team1[goals]" value="<?php echo $match['score_domicile'] ?? 0; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                 </div>
             </div>
 
             <!-- Team 2 Stats -->
-            <div id="team2Stats" class="bg-gray-50 p-4 rounded-lg" data-team-id="<?php echo $match['equipe_exterieur_id']; ?>">
-                <h3 class="text-lg font-semibold mb-4"><?php echo htmlspecialchars($match['equipe2_nom']); ?></h3>
+            <div id="team2Stats" class="bg-gray-50 dark:bg-gray-700 p-4 rounded-lg transition-colors duration-200" data-team-id="<?php echo $match['equipe_exterieur_id']; ?>">
+                <h3 class="text-lg font-semibold mb-4 dark:text-white"><?php echo htmlspecialchars($match['equipe2_nom']); ?></h3>
                 <div class="space-y-3">
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Passes</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Passes</label>
                         <input type="number" name="team2[passes]" value="<?php echo $team2Stats['passes']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Tirs</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Tirs</label>
                         <input type="number" name="team2[tirs]" value="<?php echo $team2Stats['tirs']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Corners</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Corners</label>
                         <input type="number" name="team2[corners]" value="<?php echo $team2Stats['corners']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Penalties</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Penalties</label>
                         <input type="number" name="team2[penalties]" value="<?php echo $team2Stats['penalties']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Coups francs</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Coups francs</label>
                         <input type="number" name="team2[coups_franc]" value="<?php echo $team2Stats['coups_franc']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Centres</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Centres</label>
                         <input type="number" name="team2[centres]" value="<?php echo $team2Stats['centres']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Hors-jeu</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Hors-jeu</label>
                         <input type="number" name="team2[hors_jeu]" value="<?php echo $team2Stats['hors_jeu']; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                     <div>
-                        <label class="block text-sm font-medium text-gray-700">Buts</label>
+                        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300">Buts</label>
                         <input type="number" name="team2[goals]" value="<?php echo $match['score_exterieur'] ?? 0; ?>"
-                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                     </div>
                 </div>
             </div>
@@ -215,49 +215,49 @@ try {
 
         <!-- Player Statistics -->
         <div class="mt-8">
-            <h3 class="text-lg font-semibold mb-4">Statistiques des joueurs</h3>
+            <h3 class="text-lg font-semibold mb-4 dark:text-white">Statistiques des joueurs</h3>
             <div class="grid grid-cols-2 gap-6">
                 <!-- Team 1 Players -->
                 <div>
-                    <h4 class="font-medium mb-3"><?php echo htmlspecialchars($match['equipe1_nom']); ?></h4>
+                    <h4 class="font-medium mb-3 dark:text-white"><?php echo htmlspecialchars($match['equipe1_nom']); ?></h4>
                     <div class="space-y-4">
                         <?php foreach ($team1Players as $player): ?>
-                            <div class="player-stats-form bg-gray-50 p-4 rounded-lg">
+                            <div class="player-stats-form bg-gray-50 dark:bg-gray-700 p-4 rounded-lg transition-colors duration-200">
                                 <input type="hidden" name="players[<?php echo $player['joueur_id']; ?>][id]" value="<?php echo $player['joueur_id']; ?>">
-                                <h5 class="font-medium mb-2">
+                                <h5 class="font-medium mb-2 dark:text-white">
                                     <?php echo htmlspecialchars($player['nom'] . ' ' . $player['prenom']); ?>
-                                    <span class="text-sm text-gray-500">(<?php echo $player['titulaire'] ? 'Titulaire' : 'Remplaçant'; ?>)</span>
+                                    <span class="text-sm text-gray-500 dark:text-gray-400">(<?php echo $player['titulaire'] ? 'Titulaire' : 'Remplaçant'; ?>)</span>
                                 </h5>
                                 <div class="grid grid-cols-2 gap-2">
                                     <div>
-                                        <label class="block text-sm text-gray-600">Dribbles réussis</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Dribbles réussis</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][dribbles_reussis]" 
                                                value="<?php echo $player['dribbles_reussis']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Interceptions</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Interceptions</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][interceptions]" 
                                                value="<?php echo $player['interceptions']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Passes décisives</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Passes décisives</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][passes_decisives]" 
                                                value="<?php echo $player['passes_decisives']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Tirs cadrés</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Tirs cadrés</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][tirs_cadres]" 
                                                value="<?php echo $player['tirs_cadres']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Fautes</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Fautes</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][fautes]" 
                                                value="<?php echo $player['fautes']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                 </div>
                             </div>
@@ -267,45 +267,45 @@ try {
 
                 <!-- Team 2 Players -->
                 <div>
-                    <h4 class="font-medium mb-3"><?php echo htmlspecialchars($match['equipe2_nom']); ?></h4>
+                    <h4 class="font-medium mb-3 dark:text-white"><?php echo htmlspecialchars($match['equipe2_nom']); ?></h4>
                     <div class="space-y-4">
                         <?php foreach ($team2Players as $player): ?>
-                            <div class="player-stats-form bg-gray-50 p-4 rounded-lg">
+                            <div class="player-stats-form bg-gray-50 dark:bg-gray-700 p-4 rounded-lg transition-colors duration-200">
                                 <input type="hidden" name="players[<?php echo $player['joueur_id']; ?>][id]" value="<?php echo $player['joueur_id']; ?>">
-                                <h5 class="font-medium mb-2">
+                                <h5 class="font-medium mb-2 dark:text-white">
                                     <?php echo htmlspecialchars($player['nom'] . ' ' . $player['prenom']); ?>
-                                    <span class="text-sm text-gray-500">(<?php echo $player['titulaire'] ? 'Titulaire' : 'Remplaçant'; ?>)</span>
+                                    <span class="text-sm text-gray-500 dark:text-gray-400">(<?php echo $player['titulaire'] ? 'Titulaire' : 'Remplaçant'; ?>)</span>
                                 </h5>
                                 <div class="grid grid-cols-2 gap-2">
                                     <div>
-                                        <label class="block text-sm text-gray-600">Dribbles réussis</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Dribbles réussis</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][dribbles_reussis]" 
                                                value="<?php echo $player['dribbles_reussis']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Interceptions</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Interceptions</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][interceptions]" 
                                                value="<?php echo $player['interceptions']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Passes décisives</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Passes décisives</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][passes_decisives]" 
                                                value="<?php echo $player['passes_decisives']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Tirs cadrés</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Tirs cadrés</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][tirs_cadres]" 
                                                value="<?php echo $player['tirs_cadres']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                     <div>
-                                        <label class="block text-sm text-gray-600">Fautes</label>
+                                        <label class="block text-sm text-gray-600 dark:text-gray-300">Fautes</label>
                                         <input type="number" name="players[<?php echo $player['joueur_id']; ?>][fautes]" 
                                                value="<?php echo $player['fautes']; ?>"
-                                               class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500">
+                                               class="mt-1 block w-full rounded-md border-gray-300 dark:border-gray-600 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-white">
                                     </div>
                                 </div>
                             </div>
@@ -319,6 +319,6 @@ try {
 
 <?php
 } catch (Exception $e) {
-    echo '<div class="text-red-500">Erreur: ' . htmlspecialchars($e->getMessage()) . '</div>';
+    echo '<div class="text-red-500 dark:text-red-400">Erreur: ' . htmlspecialchars($e->getMessage()) . '</div>';
 }
 ?>
